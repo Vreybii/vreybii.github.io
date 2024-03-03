@@ -25,6 +25,12 @@
 </header>
 
 <main>
+    <noscript>
+        <p style="padding: 16px; background: rgba(255,0,0,0.5); border: solid 1px red; border-radius: 8px;">
+            Hey, diese Seite braucht leider ein Hauch Scripte, aber nur Locale und keine fremde Abhängigkeit, nur zum
+            einfacheren managen dieser Seite.
+        </p>
+    </noscript>
     <div class="hive-container">
         <ol id="hive" class="hive">
         </ol>
@@ -35,43 +41,49 @@
 
 <template id="comb">
     <li class="comb">
-        <div class="comb-inner flip-box">
-            <article class="flip-box-inner">
-                <div class="flip-box-front">
-                    <img
-                        src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 448 512'%3E%3Cpath d='M0 96C0 60.7 28.7 32 64 32H384c35.3 0 64 28.7 64 64V416c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V96z'/%3E%3C/svg%3E"
-                        data-src="__img__" alt="logo of: __title__"
-                        referrerpolicy="no-referrer">
-                </div>
-                <div class="flip-box-back">
-                    <h1>__title__</h1>
-                </div>
-            </article>
+        <div>
+            <div class="comb-inner flip-box">
+                <article class="flip-box-inner">
+                    <div class="flip-box-front">
+                        <img
+                            src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 448 512'%3E%3Cpath d='M0 96C0 60.7 28.7 32 64 32H384c35.3 0 64 28.7 64 64V416c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V96z'/%3E%3C/svg%3E"
+                            data-src="__img__" alt="logo of: __title__"
+                            referrerpolicy="no-referrer">
+                    </div>
+                    <div class="flip-box-back">
+                        <h2>__title__</h2>
+                    </div>
+                </article>
+            </div>
         </div>
     </li>
 </template>
 
 <script>
-    const combContent = [
-        {
-            title: "Cyberpunk 2077",
-            img: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.tanikal.com%2Fwp-content%2Fuploads%2F2020%2F12%2FCyberpunk-2077.jpg&f=1&nofb=1&ipt=41f726b979ed43f96cc8e6c9df0619afbfad8079578effac9acc1c33641773c4&ipo=images"
-        }
-    ];
-
     const hive = document.getElementById( "hive" );
     const comb = document.getElementById( "comb" );
 
-    combContent.forEach( c => {
-        const node = comb.content.cloneNode( true );
-        const div = node.querySelector( "div" );
-        div.innerHTML = div.innerHTML.replace( /__title__/g, c.title );
-        div.innerHTML = div.innerHTML.replace( /(?<=alt=")(.*)-\n/g, "$1" );
-        div.innerHTML = div.innerHTML.replace( /__img__/g, c.img );
-        const img = node.querySelector( "img" );
-        img.src = img.dataset.src;
-        hive.appendChild( node );
-    } );
-
+    fetch( './hives.json' )
+        .then( r => r.json() )
+        .then( combContent => {
+            combContent.forEach( c => {
+                const node = comb.content.cloneNode( true );
+                const div = node.querySelector( "div" );
+                if ( c.status ){
+                    div.classList.add(c.status);
+                    div.classList.add("comb-inner");
+                }
+                div.innerHTML = div.innerHTML.replace( /__title__/g, c.title );
+                div.innerHTML = div.innerHTML.replace( /__img__/g, c.img );
+                const img = node.querySelector( "img" );
+                img.src = img.dataset.src;
+                const article = node.querySelector( "article" );
+                div.onclick = function () {
+                    article.classList.toggle("active");
+                }
+                hive.appendChild( node );
+            } );
+        } )
+        .catch( e => console.log( e ) );
 </script>
 </html>
