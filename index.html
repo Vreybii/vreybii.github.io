@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>GameHive</title>
     <link rel="stylesheet" href="css/normalize.css">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/style2.css">
     <meta name="description" content="Game list in hive style">
 
     <link rel="icon" href="/favicon.ico" sizes="any">
@@ -21,10 +21,35 @@
 <body>
 <div class="bg-hive"></div>
 <header>
-
+    <img src="img/Banner_Twitch_1920_1080_px.png" alt="Banner von vreybii"/>
 </header>
 
 <main>
+    <article>
+        <p>Hey Lootbiienchen,<br/><br/>
+            ihr fragt euch sicher, was das für eine Auswahl sein soll und was ich damit eigentlich bewirken will!</p>
+
+        <p>Ziel dieser Kanalbelohnung ist in erster Linie mich dazu zu bewegen Spiele anzufangen, die ich schon lange
+            rumliegen habe.
+            Auch Indie Spiele, auf die ich schon lange Bock hab, oder Demos, die ich rumgammeln habe.</p>
+
+        <p>Folgendes solltet ihr beachten, wenn ihr die Kanalpunkte investiert:</p>
+        <ol>
+            <li>1 Stream mit mind. 2h Gameplay garantiert</li>
+            <li>Aktiver Stream wird nicht unterbrochen
+                Gerne spreche ich mit dir ab, wann du Zeit hast, damit du es nicht verpasst!
+            </li>
+            <li>Dein Spiel ist nicht dabei? Solange du nichts dagegen hast mir das Game zu giften, schlag gerne was
+                eigenes vor!
+                (Eventuell habe ich das Game auch, sprich mich einfach mal drauf an)
+            </li>
+            <li>Demos, die kürzer als 2h Gameplay bereithalten, werden so lange gespielt, wie möglich.
+                (Auch hier ist das giften möglich, wir müssen nur klären, welche Plattform ich nutze.)
+            </li>
+            <li>Horrorgames sind dabei, aber pls no! D:</li>
+        </ol>
+        Viel Spaß beim Stöbern und Danke fürs Einlösen! <3
+    </article>
     <noscript>
         <p style="padding: 16px; background: rgba(255,0,0,0.5); border: solid 1px red; border-radius: 8px;">
             Hey, diese Seite braucht leider ein Hauch Scripte, aber nur Locale und keine fremde Abhängigkeit, nur zum
@@ -59,6 +84,7 @@
     </li>
 </template>
 
+
 <script>
     const hive = document.getElementById( "hive" );
     const comb = document.getElementById( "comb" );
@@ -85,5 +111,7 @@
             } );
         } )
         .catch( e => console.log( e ) );
+
+
 </script>
 </html>
