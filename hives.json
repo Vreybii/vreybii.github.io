@@ -1,11 +1,742 @@
 [
   {
-    "title": "Cyberpunk 2077",
-    "img": "https://www.pcgamesarchive.com/wp-content/uploads/2021/03/Cyberpunk-2077-Cover-1365x2048.jpg",
-    "status": "done"
+    "title": "Beacon Pines",
+    "img": "img/download (1).jpg"
   },
   {
-    "title": "Pokemon Blue",
-    "img": "https://cdn.tutsplus.com/psd/uploads/legacy/psdtutsarticles/linkb_60vgamecovers/17.jpg"
+    "title": "Bendy and the Ink Machine",
+    "img": "img/download (2).jpg"
+  },
+  {
+    "title": "Bendy and the Dark Revival",
+    "img": "img/download (3).jpg"
+  },
+  {
+    "title": "BEYOND TWO SOULS",
+    "img": "img/download (4).jpg"
+  },
+  {
+    "title": "Blue Fire",
+    "img": "img/download (5).jpg"
+  },
+  {
+    "title": "BOKURA",
+    "img": "img/download (6).jpg"
+  },
+  {
+    "title": "CORE KEEPER",
+    "img": "img/download (8).jpg"
+  },
+  {
+    "title": "Creepy Tale",
+    "img": "img/download (8).jpg"
+  },
+  {
+    "title": "Dust an Elysian Tale",
+    "img": "img/download (10).jpg"
+  },
+  {
+    "title": "Getting Over It",
+    "img": "img/download (11).jpg"
+  },
+  {
+    "title": "GODUS",
+    "img": "img/download (12).jpg"
+  },
+  {
+    "title": "Golf with your friends",
+    "img": "img/download (13).jpg"
+  },
+  {
+    "title": "GRIMHOOK",
+    "img": "img/download (14).jpg"
+  },
+  {
+    "title": "House Flipper",
+    "img": "img/download (15).jpg"
+  },
+  {
+    "title": "Ib",
+    "img": "img/download (16).jpg"
+  },
+  {
+    "title": "Observation Duty 1-5",
+    "img": "img/download (17).jpg"
+  },
+  {
+    "title": "Impostor Factory",
+    "img": "img/download (18).jpg"
+  },
+  {
+    "title": "Journey of a Roach",
+    "img": "img/download (19).jpg"
+  },
+  {
+    "title": "The legend of Karl",
+    "img": "img/download (20).jpg"
+  },
+  {
+    "title": "The Letter",
+    "img": "img/download (21).jpg"
+  },
+  {
+    "title": "Little Wood",
+    "img": "img/download (22).jpg"
+  },
+  {
+    "title": "Long live the Queen",
+    "img": "img/download (23).jpg"
+  },
+  {
+    "title": "The Looker",
+    "img": "img/download (24).jpg"
+  },
+  {
+    "title": "Love Esquire",
+    "img": "img/download (25).jpg"
+  },
+  {
+    "title": "Miniland Adventure",
+    "img": "img/download (26).jpg"
+  },
+  {
+    "title": "Moonlighter",
+    "img": "img/download (27).jpg"
+  },
+  {
+    "title": "Moonhunters",
+    "img": "img/download (28).jpg"
+  },
+  {
+    "title": "The Murder of Sonic the Hedgehog",
+    "img": "img/download (29).jpg"
+  },
+  {
+    "title": "Noita",
+    "img": "img/download (30).jpg"
+  },
+  {
+    "title": "Ocean's Heart",
+    "img": "img/download (31).jpg"
+  },
+  {
+    "title": "Our Life",
+    "img": "img/download (32).jpg"
+  },
+  {
+    "title": "Palworld",
+    "img": "img/download (33).jpg"
+  },
+  {
+    "title": "Psycho-Pass Mandatory Happiness",
+    "img": "img/download (34).jpg"
+  },
+  {
+    "title": "Reigns Three Kingdoms",
+    "img": "img/download (35).jpg"
+  },
+  {
+    "title": "Scribblenauts Unlimited",
+    "img": "img/download (36).jpg"
+  },
+  {
+    "title": "Thief Gold",
+    "img": "img/download (37).jpg"
+  },
+  {
+    "title": "To the Moon",
+    "img": "img/download (38).jpg"
+  },
+  {
+    "title": "Tomb Raider",
+    "img": "img/download (39).jpg"
+  },
+  {
+    "title": "Undertale Genocide Run",
+    "img": "img/download (40).jpg"
+  },
+  {
+    "title": "Village Monsters",
+    "img": "img/download (41).jpg"
+  },
+  {
+    "title": "World of Goo",
+    "img": "img/download (42).jpg"
+  },
+  {
+    "title": "Cozy Grove",
+    "img": "img/download (43).jpg"
+  },
+  {
+    "title": "Evoland",
+    "img": "img/download (44).jpg"
+  },
+  {
+    "title": "Monster Sanctuary",
+    "img": "img/download (45).jpg"
+  },
+  {
+    "title": "Little Dragons Cafe",
+    "img": "img/download (46).jpg"
+  },
+  {
+    "title": "Hollow Knight",
+    "img": "img/download (47).jpg"
+  },
+  {
+    "title": ".Cat",
+    "img": "img/download (49).jpg"
+  },
+  {
+    "title": "Bastion",
+    "img": "img/download (50).jpg"
+  },
+  {
+    "title": "Lumo",
+    "img": "img/download (51).jpg"
+  },
+  {
+    "title": "My Butler",
+    "img": "img/download (52).jpg"
+  },
+  {
+    "title": "Trials of Mana",
+    "img": "img/download (53).jpg"
+  },
+  {
+    "title": "Mystic Quest",
+    "img": "img/download (54).jpg"
+  },
+  {
+    "title": "Yoshi's Crafted World",
+    "img": "img/download (55).jpg"
+  },
+  {
+    "title": "Plague Road",
+    "img": "img/download (56).jpg"
+  },
+  {
+    "title": "Windscape",
+    "img": "img/download (57).jpg"
+  },
+  {
+    "title": "Tetris 99",
+    "img": "img/download (59).jpg"
+  },
+  {
+    "title": "Crash Bandicoot Sane Trilogy",
+    "img": "img/download (60).jpg"
+  },
+  {
+    "title": "Harvest Moon Licht der Hoffnung",
+    "img": "img/download (61).jpg"
+  },
+  {
+    "title": "New Pokémon Snap",
+    "img": "img/download (62).jpg"
+  },
+  {
+    "title": "Jumanji",
+    "img": "img/download (63).jpg"
+  },
+  {
+    "title": "Seeds of Resilience",
+    "img": "img/download (64).jpg"
+  },
+  {
+    "title": "Sky Children of light",
+    "img": "img/download (65).jpg"
+  },
+  {
+    "title": "Agatha Knife",
+    "img": "img/download (66).jpg"
+  },
+  {
+    "title": "Lost Phone Stories",
+    "img": "img/download (67).jpg"
+  },
+  {
+    "title": "Rouge Heroes DEMO",
+    "img": "img/download (68).jpg"
+  },
+  {
+    "title": "Goat Simulator",
+    "img": "img/download (69).jpg"
+  },
+  {
+    "title": "NOBODY saves the World",
+    "img": "img/download (70).jpg"
+  },
+  {
+    "title": "Outlast II",
+    "img": "img/download (71).jpg"
+  },
+  {
+    "title": "JoJo's Eyes of Heaven",
+    "img": "img/download (72).jpg"
+  },
+  {
+    "title": "Sonic Forces",
+    "img": "img/download (73).jpg"
+  },
+  {
+    "title": "Concrete Genie",
+    "img": "img/download (74).jpg"
+  },
+  {
+    "title": "Ruya",
+    "img": "img/download (75).jpg"
+  },
+  {
+    "title": "Witch Thief",
+    "img": "img/download (76).jpg"
+  },
+  {
+    "title": "if not us",
+    "img": "img/download (77).jpg"
+  },
+  {
+    "title": "One Shot",
+    "img": "img/download (78).jpg"
+  },
+  {
+    "title": "Feline Therapy",
+    "img": "img/download (79).jpg"
+  },
+  {
+    "title": "Death and Taxes",
+    "img": "img/download (80).jpg"
+  },
+  {
+    "title": "Nuclear Throne",
+    "img": "img/download (81).jpg"
+  },
+  {
+    "title": "Milkmaid of the Milky Way",
+    "img": "img/download (82).jpg"
+  },
+  {
+    "title": "Wide Ocean Big Jacket",
+    "img": "img/download (83).jpg"
+  },
+  {
+    "title": "Wheels Aurelia",
+    "img": "img/download (84).jpg"
+  },
+  {
+    "title": "Highway Blossoms",
+    "img": "img/download (85).jpg"
+  },
+  {
+    "title": "Beglitched",
+    "img": "img/download (86).jpg"
+  },
+  {
+    "title": "Dead Plate",
+    "img": "img/download (87).jpg"
+  },
+  {
+    "title": "Catlateral Damage",
+    "img": "img/download (88).jpg"
+  },
+  {
+    "title": "Loot Rascals",
+    "img": "img/download (89).jpg"
+  },
+  {
+    "title": "Anodyne",
+    "img": "img/download (90).jpg"
+  },
+  {
+    "title": "One Night Stand",
+    "img": "img/download (91).jpg"
+  },
+  {
+    "title": "Minit",
+    "img": "img/download (92).jpg"
+  },
+  {
+    "title": "Lenna's Inception",
+    "img": "img/download (93).jpg"
+  },
+  {
+    "title": "a Mortician's Tale",
+    "img": "img/download (94).jpg"
+  },
+  {
+    "title": "MewnBase",
+    "img": "img/download (95).jpg"
+  },
+  {
+    "title": "Celeste",
+    "img": "img/download (96).jpg"
+  },
+  {
+    "title": "A Short Hike",
+    "img": "img/download (97).jpg"
+  },
+  {
+    "title": "Night in the Woods",
+    "img": "img/download (98).jpg"
+  },
+  {
+    "title": "Changeling",
+    "img": "img/download (99).jpg"
+  },
+  {
+    "title": "Gravity Rush",
+    "img": "img/download gravity rush.jpg"
+  },
+  {
+    "title": "Awesome Adventures of Cptn Spirit",
+    "img": "img/download.jpg"
+  },
+  {
+    "title": "The Sexy Brutale",
+    "img": "img/images (1).jpg"
+  },
+  {
+    "title": "Spirittea DEMO",
+    "img": "img/Screenshot 2024-02-21 112036.jpg"
+  },
+  {
+    "title": "Unicorn Princess",
+    "img": "img/images (3).jpg"
+  },
+  {
+    "title": "Secret of Mana",
+    "img": "img/images (4).jpg"
+  },
+  {
+    "title": "Hyrule Warriors Any Part",
+    "img": "img/images (5).jpg"
+  },
+  {
+    "title": "Tanglewood",
+    "img": "img/images (6).jpg"
+  },
+  {
+    "title": "Dorf Romantik",
+    "img": "img/images.jpg"
+  },
+  {
+    "title": "Dungeons of Dreadrock",
+    "img": "img/Dungeons of Dreadrock Demo.png"
+  },
+  {
+    "title": "Faircroft`s Antiques 1",
+    "img": "img/Faircroft's Antiques 1.png"
+  },
+  {
+    "title": "Faircroft's Antiques 2",
+    "img": "img/Faircroft's Antiques 2.png"
+  },
+  {
+    "title": "Tiny Sticker Tale",
+    "img": "img/Screenshot 2024-02-17 110943.png"
+  },
+  {
+    "title": "Apico",
+    "img": "img/Screenshot 2024-02-17 111212.png"
+  },
+  {
+    "title": "Behind the Frame",
+    "img": "img/Screenshot 2024-02-17 111218.png"
+  },
+  {
+    "title": "Wytchwood",
+    "img": "img/Screenshot 2024-02-17 111224.png"
+  },
+  {
+    "title": "Nairi Tower of Shirin",
+    "img": "img/Screenshot 2024-02-17 111228.png"
+  },
+  {
+    "title": "Rain World",
+    "img": "img/Screenshot 2024-02-17 111233.png"
+  },
+  {
+    "title": "Baldur's Gate",
+    "img": "img/Screenshot 2024-02-17 111240.png"
+  },
+  {
+    "title": "Endling Extinction is forever",
+    "img": "img/Screenshot 2024-02-17 125137.png"
+  },
+  {
+    "title": "AGROUND",
+    "img": "img/Screenshot 2024-02-17 125147.png"
+  },
+  {
+    "title": "Blade Assault",
+    "img": "img/Screenshot 2024-02-17 125157.png"
+  },
+  {
+    "title": "Evan's Remains",
+    "img": "img/Screenshot 2024-02-17 125207.png"
+  },
+  {
+    "title": "Adios",
+    "img": "img/Screenshot 2024-02-17 125221.png"
+  },
+  {
+    "title": "I am Fish",
+    "img": "img/Screenshot 2024-02-17 125226.png"
+  },
+  {
+    "title": "Tunche",
+    "img": "img/Screenshot 2024-02-17 125231.png"
+  },
+  {
+    "title": "Whispering Willows",
+    "img": "img/Screenshot 2024-02-17 125237.png"
+  },
+  {
+    "title": "Last Day of June",
+    "img": "img/Screenshot 2024-02-17 125242.png"
+  },
+  {
+    "title": "8 Doors",
+    "img": "img/Screenshot 2024-02-17 125257.png"
+  },
+  {
+    "title": "FellSeal",
+    "img": "img/Screenshot 2024-02-17 125308.png"
+  },
+  {
+    "title": "Twinklestar Sprites",
+    "img": "img/Screenshot 2024-02-17 125317.png"
+  },
+  {
+    "title": "Ataria Mania",
+    "img": "img/Screenshot 2024-02-17 125542.png"
+  },
+  {
+    "title": "Another Earth",
+    "img": "img/Screenshot 2024-02-17 125548.png"
+  },
+  {
+    "title": "20 Minutes till dawn",
+    "img": "img/Screenshot 2024-02-17 125554.png"
+  },
+  {
+    "title": "BlackBook",
+    "img": "img/Screenshot 2024-02-17 125601.png"
+  },
+  {
+    "title": "Cave Story",
+    "img": "img/Screenshot 2024-02-17 125605.png"
+  },
+  {
+    "title": "Celestia Ultimate",
+    "img": "img/Screenshot 2024-02-17 125610.png"
+  },
+  {
+    "title": "Cursed to Golf",
+    "img": "img/Screenshot 2024-02-17 125622.png"
+  },
+  {
+    "title": "Chain Monsters",
+    "img": "img/Screenshot 2024-02-17 125626.png"
+  },
+  {
+    "title": "Doors Paradox",
+    "img": "img/Screenshot 2024-02-17 125726.png"
+  },
+  {
+    "title": "Dragon Heir",
+    "img": "img/Screenshot 2024-02-17 125733.png"
+  },
+  {
+    "title": "Earthlock",
+    "img": "img/Screenshot 2024-02-17 125739.png"
+  },
+  {
+    "title": "Escape Academy",
+    "img": "img/Screenshot 2024-02-17 125742.png"
+  },
+  {
+    "title": "Dungeon Fighter Online",
+    "img": "img/Screenshot 2024-02-17 125748.png"
+  },
+  {
+    "title": "Eternal Threads",
+    "img": "img/Screenshot 2024-02-17 125758.png"
+  },
+  {
+    "title": "Halloween World",
+    "img": "img/Screenshot 2024-02-17 125806.png"
+  },
+  {
+    "title": "Infinifactory",
+    "img": "img/Screenshot 2024-02-17 125814.png"
+  },
+  {
+    "title": "Knights of Cathena",
+    "img": "img/Screenshot 2024-02-17 125818.png"
+  },
+  {
+    "title": "Born in Romance",
+    "img": "img/Screenshot 2024-02-17 125829.png"
+  },
+  {
+    "title": "Jitsu Squad",
+    "img": "img/Screenshot 2024-02-17 125837.png"
+  },
+  {
+    "title": "Lost Castle",
+    "img": "img/Screenshot 2024-02-17 125846.png"
+  },
+  {
+    "title": "Love",
+    "img": "img/Screenshot 2024-02-17 125851.png"
+  },
+  {
+    "title": "Ninja Resurrection",
+    "img": "img/Screenshot 2024-02-17 125913.png"
+  },
+  {
+    "title": "Keeping an Eye on you",
+    "img": "img/Screenshot 2024-02-17 125927.png"
+  },
+  {
+    "title": "Sail forth",
+    "img": "img/Screenshot 2024-02-17 125936.png"
+  },
+  {
+    "title": "Snakebird Complete",
+    "img": "img/Screenshot 2024-02-17 125941.png"
+  },
+  {
+    "title": "Tandem",
+    "img": "img/Screenshot 2024-02-17 125956.png"
+  },
+  {
+    "title": "Evil Within",
+    "img": "img/Screenshot 2024-02-17 130009.png"
+  },
+  {
+    "title": "Evil Within 2",
+    "img": "img/Screenshot 2024-02-17 130013.png"
+  },
+  {
+    "title": "Hidden Room",
+    "img": "img/Screenshot 2024-02-17 130020.png"
+  },
+  {
+    "title": "Mirror's Edge",
+    "img": "img/Screenshot 2024-02-18 184532.png"
+  },
+  {
+    "title": "Unravel",
+    "img": "img/Screenshot 2024-02-18 184549.png"
+  },
+  {
+    "title": "Plants vs. Zombies",
+    "img": "img/Screenshot 2024-02-18 184612.png"
+  },
+  {
+    "title": "AraFell",
+    "img": "img/Screenshot 2024-02-18 184822.png"
+  },
+  {
+    "title": "Windbound",
+    "img": "img/Screenshot 2024-02-21 111909.png"
+  },
+  {
+    "title": "FF Crystal Chronicles DEMO",
+    "img": "img/Screenshot 2024-02-21 111921.png"
+  },
+  {
+    "title": "Good Night Knight",
+    "img": "img/Screenshot 2024-02-21 111942.png"
+  },
+  {
+    "title": "Dave the Diver DEMO",
+    "img": "img/Screenshot 2024-02-21 111950.png"
+  },
+  {
+    "title": "Down in Bermuda",
+    "img": "img/Screenshot 2024-02-21 112142.png"
+  },
+  {
+    "title": "Forager",
+    "img": "img/Screenshot 2024-02-21 112151.png"
+  },
+  {
+    "title": "Pokémon Stadium 1 od. 2",
+    "img": "img/Screenshot 2024-02-21 113025.png"
+  },
+  {
+    "title": "Pilotwings 64",
+    "img": "img/Screenshot 2024-02-21 113039.png"
+  },
+  {
+    "title": "Pokémon Puzzle League",
+    "img": "img/Screenshot 2024-02-21 113050.png"
+  },
+  {
+    "title": "Pokémon Snap",
+    "img": "img/Screenshot 2024-02-21 113107.png"
+  },
+  {
+    "title": "Kirby 64",
+    "img": "img/Screenshot 2024-02-21 113152.png"
+  },
+  {
+    "title": "Super Mario 64",
+    "img": "img/Screenshot 2024-02-21 113230.png"
+  },
+  {
+    "title": "Yoshi's Story",
+    "img": "img/Screenshot 2024-02-21 113247.png"
+  },
+  {
+    "title": "Pop'n TwinnBee",
+    "img": "img/Screenshot 2024-02-21 113427.png"
+  },
+  {
+    "title": "Psycho Dream",
+    "img": "img/Screenshot 2024-02-21 113848.png"
+  },
+  {
+    "title": "Super Metroid",
+    "img": "img/Screenshot 2024-02-21 113944.png"
+  },
+  {
+    "title": "Zelda I",
+    "img": "img/Screenshot 2024-02-21 114057.png"
+  },
+  {
+    "title": "Zelda II",
+    "img": "img/Screenshot 2024-02-21 114042.png"
+  },
+  {
+    "title": "Earthbound Beginnings",
+    "img": "img/Screenshot 2024-02-21 114124.png"
+  },
+  {
+    "title": "Castlevania Legends",
+    "img": "img/Screenshot 2024-02-21 114622.png"
+  },
+  {
+    "title": "Quest of Camelot",
+    "img": "img/Screenshot 2024-02-21 114628.png"
+  },
+  {
+    "title": "Alone in the Dark",
+    "img": "img/Screenshot 2024-02-21 114651.png"
+  },
+  {
+    "title": "Tetris",
+    "img": "img/Screenshot 2024-02-21 114708.png"
+  },
+  {
+    "title": "Zelda Link's Awakening",
+    "img": "img/Screenshot 2024-02-21 114738.png"
+  },
+  {
+    "title": "Mable in the Woods",
+    "img": "img/Screenshot 2024-02-21 131228.png"
   }
 ]
